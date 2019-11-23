@@ -1,0 +1,23 @@
+Luke 12 3.98 20
+Bill 17 3.55 18
+John 15 2.50 21
+Paul 13 3.25 40
+Gina 19 3.75 25
+Dino 11 1.70 23
+Alfred 2 3.99 74
+Bruce 5 4.0 35
+Babs 6 3.85 23
+Richard 8 2.33 24
+Jill 20 3.33 32
+Barry 16 1.11 54
+Leon 1 3.58 32
+Allen 14 4.00 42
+Chris 10 2.33 19
+Jim 3 2.66 22 
+Guy 4 3.74 33
+Mary 7 3.44 18
+Raph 9 3.23 26
+Don 18 1.33 72
+
+
+
